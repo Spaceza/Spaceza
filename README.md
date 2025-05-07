@@ -1,5 +1,6 @@
 <img src="1000202931.jpg" alt="Boas-Vindas Ao Meu Perfil">
 
+
 # 💫 About Me:
 🎓 Estudante Técnico de Tecnologia da Informação no SENAI.<br>💻 Conhecimento básico em C, JavaScript, HTML, CSS e testes automatizados com Cypress.<br>🚀 Explorando o mundo do desenvolvimento web e programação com vontade de aprender mais a cada dia!
 
