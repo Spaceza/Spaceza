@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🎓 Estudante Técnico de Tecnologia da Informação no SENAI.<br>💻 Conhecimento básico em PHP, C, JavaScript, HTML, CSS e testes automatizados com Cypress.<br>🚀 Explorando o mundo do desenvolvimento web e programação com vontade de aprender mais a cada dia!
+💻 Estudante de Engenharia de Software<br> 🎓 Formado em TI pelo SENAI<br>💻 Conhecimento básico em PHP, C, JavaScript, HTML, CSS e testes automatizados com Cypress.<br>🚀 Explorando o mundo do desenvolvimento web e programação com vontade de aprender mais a cada dia!
 
 
 # 💻 Tech Stack:
